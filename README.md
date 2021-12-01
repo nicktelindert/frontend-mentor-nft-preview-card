@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution page](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/css-grid-PQs8_9vGt)
+- Solution URL: [Solution page](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/fix-avatar-bEKDv1WWw)
 - Live Site URL: [Github page](https://nicktelindert.github.io/frontend-mentor-nft-preview-card/)
 
 ## My process
