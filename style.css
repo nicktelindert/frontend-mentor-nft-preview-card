@@ -52,6 +52,7 @@ main {
 }
 
 .stats {
+  font-size: 16px;
   position: relative;
   width: 100%;
   text-align:center;
@@ -59,9 +60,10 @@ main {
 }
 
 .eth-text {
+ 
   position: absolute;
   left: 0px;
-  font-weight: 600;
+  font-weight: 400;
   margin-left: 0px;
   color: hsl(178, 100%, 50%);
 }
@@ -88,12 +90,13 @@ main {
 }
 
 .card h1 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   color: hsl(0,0%, 100%);
 }
 
 .author {
+  font-size: 16px;
   display: grid;
   grid-template-columns: 10% 1fr;
   grid-gap: 10px;
